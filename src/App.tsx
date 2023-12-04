@@ -147,7 +147,11 @@ function App() {
 						>
 							Frontend Mentor
 						</a>
-						. Coded by <a href="#">Ionut Oltean</a>.
+						. Coded by{" "}
+						<a href="https://github.com/replayzor" target="_blank">
+							Ionut Oltean
+						</a>
+						.
 					</p>
 				</footer>
 			</section>
